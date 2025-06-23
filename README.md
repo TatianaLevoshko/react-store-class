@@ -2,6 +2,7 @@
 ## Развертывание
 
 npm install
+
 npm run dev
 
 ## Сборка
