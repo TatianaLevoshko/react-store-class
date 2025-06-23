@@ -1,4 +1,8 @@
 
+# Страница интернет-магазина (функциональный компонент)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/2xukign1ia0qk3jn?svg=true)](https://ci.appveyor.com/project/TatianaLevoshko/react-store-class)
+
 ## Развертывание
 
 npm install
