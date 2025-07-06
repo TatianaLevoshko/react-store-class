@@ -1,4 +1,7 @@
 
+# Страница интернет-магазина (class-based компонент)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/fgmnvi6hofvyw3oy?svg=true)](https://ci.appveyor.com/project/TatianaLevoshko/react-store-class)
 
 [Результат (Сайт)](https://tatianalevoshko.github.io/react-store-class)
 
